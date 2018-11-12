@@ -1,3 +1,3 @@
-<Response>
+<Response voice="man">
 	<Say>You have Elastic Search alerts.  Please check your email.</Say>
 </Response>
